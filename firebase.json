@@ -1,0 +1,11 @@
+{
+    "functions": {
+      "source": "backend"
+    },
+    "emulators": {
+      "functions": {
+        "port": 5001
+      }
+    }
+  }
+  

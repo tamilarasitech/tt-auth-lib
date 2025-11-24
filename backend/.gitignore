@@ -1,0 +1,22 @@
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+lib/**
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Service account keys and secrets
+key.json
+*.json.key
+*.key
